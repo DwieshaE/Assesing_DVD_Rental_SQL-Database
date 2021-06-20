@@ -1,3 +1,4 @@
+-- The goal of this project is to select and export data from the DVD rental database to excel.
 /*to find the tables available in a data click on scchemas and then tables*/ 
 -- asterick select all the columns in a table
 
